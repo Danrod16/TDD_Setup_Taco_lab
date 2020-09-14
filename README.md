@@ -1,5 +1,5 @@
 <h1>A step by ste guide on how to start a Test driven Development with rspec</h1>
-<p>Based on Thougthbot & El Taco Lab methodology</p>
+<p>Based on <a href="https://books.thoughtbot.com/assets/testing-rails.pdf">Thougthbot TDD starter guide</a> & El Taco Lab methodology</p>
 
 <h2>Install rspec gem</h2>
 <p>In your gemfile add the following code:</p>
